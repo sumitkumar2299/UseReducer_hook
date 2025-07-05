@@ -1,0 +1,12 @@
+it's one of the most important react hooks.
+usereducer is a react hook that allows you to manage the states of components.
+
+
+it takes care of updating the state, allowing us to move all state update logic from individual event handlers to one central location. This seperation 
+of concerns makes our components much cleaner and easier to read 
+
+The reducer is simply a function that takes in the current state and an caction and based on those values returns the next state so the updated state 
+
+
+
+
