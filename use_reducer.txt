@@ -8,5 +8,7 @@ of concerns makes our components much cleaner and easier to read
 The reducer is simply a function that takes in the current state and an caction and based on those values returns the next state so the updated state 
 
 
+difference between useReducer and array reduce method 
+
 
 
